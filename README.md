@@ -7,3 +7,4 @@ Hola, soy Estrella y soy de Sevilla. He estudiado Biología y ahora estoy aprend
 mi usuario en Github es: estrellasir
 # intereses
 En lo nuevo que estoy aprendiendo en ASIR me interesa la ciberseguridad y también las bases de datos
+Estoy intentando aprender y entender todo sobre manejar git y github
